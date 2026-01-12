@@ -1,6 +1,11 @@
 # Audio DSP Basics
 
-Foundation project for audio and speech machine learning.
+This repository provides a foundational exploration of audio signal
+processing for speech and audio machine learning systems.
+
+It focuses on loading audio, extracting time–frequency representations,
+and visualizing the features commonly used by speech-to-text, text-to-speech,
+and audio generation models.
 
 ## Example Output
 
